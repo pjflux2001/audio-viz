@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/audio-viz/static/css/main.a617e044.chunk.css",
+    "main.js": "/audio-viz/static/js/main.3f75cc3a.chunk.js",
+    "main.js.map": "/audio-viz/static/js/main.3f75cc3a.chunk.js.map",
+    "runtime-main.js": "/audio-viz/static/js/runtime-main.f7ca56af.js",
+    "runtime-main.js.map": "/audio-viz/static/js/runtime-main.f7ca56af.js.map",
+    "static/js/2.2e62f09d.chunk.js": "/audio-viz/static/js/2.2e62f09d.chunk.js",
+    "static/js/2.2e62f09d.chunk.js.map": "/audio-viz/static/js/2.2e62f09d.chunk.js.map",
+    "static/js/3.58e1c17b.chunk.js": "/audio-viz/static/js/3.58e1c17b.chunk.js",
+    "static/js/3.58e1c17b.chunk.js.map": "/audio-viz/static/js/3.58e1c17b.chunk.js.map",
+    "index.html": "/audio-viz/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/audio-viz/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2e62f09d.chunk.js.LICENSE.txt": "/audio-viz/static/js/2.2e62f09d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/audio-viz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ca56af.js",
+    "static/js/2.2e62f09d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3f75cc3a.chunk.js"
+  ]
+}
